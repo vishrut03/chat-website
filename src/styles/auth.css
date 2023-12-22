@@ -1,0 +1,25 @@
+.auth-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.auth-container p {
+    font-size: 20px;
+}
+
+.auth-container button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: #3b5998;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.auth-container button:hover {
+    background-color: #203562;
+}
